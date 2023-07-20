@@ -1,4 +1,4 @@
-# Complete end-to-end Workflow for a Diabetes Prediction Deep Learning Project
+# Complete end-to-end Workflow for a Diabetes Prediction Deep Learning Project: From Data Exploration to Model Training and Evaluation with TensorFlow
 
 The provided code demonstrates a complete end-to-end workflow for a diabetes prediction deep-learning project. It involves data exploration, preprocessing, model creation, training, evaluation, and saving the trained model for future use. The TensorFlow library allows for efficient model iteration, and the addition of EarlyStopping and batch size further enhances model training and generalization performance. Here's a description of each step:
 
